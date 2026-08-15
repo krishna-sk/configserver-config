@@ -1,0 +1,6 @@
+configserver:
+  accounts:
+    message: "Welcome to EazyBank accounts related local APIs - from config server git"
+    contactDetails:
+      name: "John Doe - Developer"
+      email: "john.custom@eazybank.com"
